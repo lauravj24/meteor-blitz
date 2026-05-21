@@ -8,7 +8,7 @@ import java.io.InputStream;
 /**
  * Clase abstracta base para todas las entidades del juego (Cobra, enemigos, objetos).
  * Define posición, sprite, dirección y hitbox.
- * Todas las subclases deben implementar el método update().
+ * Todas las subclases deben implementar el método update()
  *
  * @author Laura Jaramillo, Tomas Osorio, Tomas Varona
  * @version 1.0
